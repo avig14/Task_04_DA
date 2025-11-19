@@ -10,6 +10,7 @@ Build a machine learning model that predicts whether a customer will churn (leav
 File	Description
 Telco_Task4_Final_Notebook.ipynb	Full end-to-end ML workflow (EDA → preprocessing → modeling → evaluation → saving model).
 telco_churn_cleaned.csv	Cleaned dataset after fixing missing values, formatting errors, and service labels.
+telo_features_importance_top20 -> Listing Top 20 features.
 
 🧠 Key Steps Performed
 🔹 1. Exploratory Data Analysis (EDA)
